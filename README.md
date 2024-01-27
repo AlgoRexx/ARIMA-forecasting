@@ -1,3 +1,5 @@
+![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 # ARIMA-forecasting
 Buit a GOOGLE stocks forcasting model
 ## The model which I used 
